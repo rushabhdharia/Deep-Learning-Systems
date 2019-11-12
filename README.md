@@ -8,3 +8,7 @@ HomeWork 1
 HomeWork 2
 1. Speech Denoising using 1D CNN
 2. Speech Denoising using 2D CNN
+
+HomeWork 3
+1. Network Compression Using SVD
+2. Speech Denoising Using GRU

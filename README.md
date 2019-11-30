@@ -12,3 +12,7 @@ HomeWork 2
 HomeWork 3
 1. Network Compression Using SVD
 2. Speech Denoising Using GRU
+
+HomeWork 4
+1. Speaker Verification using Siamese Network
+2. Variational Autoencoders on Poor Sevens
